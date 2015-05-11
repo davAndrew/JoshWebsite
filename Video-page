@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Search Engine Title Goes Here</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="container"> </div>
+<div id="header"> <h3><a href="index.html"> Go Home</h2></a></div>
+<div id="sidebar"> Fan favorites
+<p>1) Wakeshima Kanon - world's end, girl's rondo<a href="https://youtu.be/DPrl2BGCAsc"> [Insane]</a></p>
+</div>
+<div id="content"> <iframe width="560" height="315" src="https://www.youtube.com/embed/DPrl2BGCAsc" frameborder="0" allowfullscreen></iframe></div>
+<p>2) EGOIST - All Alone With You <a href="https://youtu.be/DPrl2BGCAsc"> (HD,DT)</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6QAghrKiKA" frameborder="0" allowfullscreen></iframe>
+<p>3) UPLIFT SPICE - Omega Rhythm<a href="https://youtu.be/QEh2lv4NXgQ"> (210BPM version)</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEh2lv4NXgQ" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
